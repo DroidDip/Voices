@@ -31,6 +31,12 @@ about the non-existence.
   the dictionary; we show Hello - 2.
 
 # ScreenShots
+![phone screenshot 1](https://user-images.githubusercontent.com/9950220/43687742-58caec2e-98f8-11e8-8f61-081e4593de6d.jpg)
+![phone screenshot 2](https://user-images.githubusercontent.com/9950220/43687743-590a7de4-98f8-11e8-9e89-4b90de069ea0.jpg)
+![phone screenshot 3](https://user-images.githubusercontent.com/9950220/43687744-5947cc80-98f8-11e8-88ec-f932569148e3.jpg)
+![phone screenshot 4](https://user-images.githubusercontent.com/9950220/43687745-59844e76-98f8-11e8-8739-cf2ff97b610c.jpg)
+![phone screenshot 6](https://user-images.githubusercontent.com/9950220/43687741-588c9ce4-98f8-11e8-8803-0dad133360ae.jpg)
+![phone screenshot 5](https://user-images.githubusercontent.com/9950220/43687746-59ccffb8-98f8-11e8-9319-b5ae4f9ffaa7.jpg)
 
 # License
 
