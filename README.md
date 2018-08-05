@@ -1,6 +1,5 @@
 # Voices
- An Android application which performs Speech to Text.
-
+ An **Android application** which performs **Speech to Text**.
 # App Description
 • The application fetches Speech as input from user.
 
@@ -11,7 +10,6 @@
 • Identifies if the phrase is present in the dictionary or not.
 
 • Displays the frequency – i.e. the number of times a phrase is spoken.
-
 #User Interface
 The App will perform the following functionalities:
 
