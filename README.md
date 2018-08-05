@@ -10,6 +10,7 @@
 • Identifies if the phrase is present in the dictionary or not.
 
 • Displays the frequency – i.e. the number of times a phrase is spoken.
+
 #User Interface
 The App will perform the following functionalities:
 
