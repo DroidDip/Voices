@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/blipinsk/StaggeredAnimationGroup.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
+
 # Voices
  An **Android application** which performs **Speech to Text**.
 # App Description
@@ -30,10 +32,18 @@ about the non-existence.
 
 # ScreenShots
 
-![splash_screen](https://user-images.githubusercontent.com/9950220/43687316-83a9659a-98f0-11e8-8d84-a60d2a41b931.png)
-![homescreen](https://user-images.githubusercontent.com/9950220/43687313-82e7f2c0-98f0-11e8-9a24-8e016502efa8.png)
-![speechscreen](https://user-images.githubusercontent.com/9950220/43687315-836746ec-98f0-11e8-8eec-97c54e9803a3.png)
-![user_speaks](https://user-images.githubusercontent.com/9950220/43687317-83e72df8-98f0-11e8-90d8-f8d50cb46de1.png)
-![dictionarymatch](https://user-images.githubusercontent.com/9950220/43687312-82a77c72-98f0-11e8-85a4-73df8d1b7fbd.png)
-![speech_failed](https://user-images.githubusercontent.com/9950220/43687314-8327268e-98f0-11e8-904b-5deb7715f7ad.png)
+# License
 
+    Copyright 2018 Dipanjan Chakraborty
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
