@@ -11,7 +11,7 @@
 
 • Displays the frequency – i.e. the number of times a phrase is spoken.
 
-#User Interface
+# User Interface
 The App will perform the following functionalities:
 
 • All words in the dictionary are displayed to the user.
