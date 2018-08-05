@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/github/license/blipinsk/StaggeredAnimationGroup.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Uplabs](https://img.shields.io/badge/Uplabs-Voices-brightgreen.svg?style=flat)](https://www.uplabs.com/posts/voices-open-source-apps)
 
 # Voices
  An **Android application** which performs **Speech to Text**.
