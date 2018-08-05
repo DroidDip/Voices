@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv_word_bg"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_weight="1"
+        app:cardBackgroundColor="@color/colorWhite"
+        app:cardCornerRadius="@dimen/cardview_default_radius"
+        app:cardElevation="@dimen/cardview_default_elevation">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tv_word"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:lines="1"
+            android:paddingLeft="@dimen/_1sdp"
+            android:paddingRight="@dimen/_1sdp"
+            android:text=""
+            android:textColor="@color/colorTxtGrey"
+            android:textSize="@dimen/_14ssp" />
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv_freq_bg"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_35sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginRight="@dimen/_5sdp"
+        android:layout_weight="1"
+        app:cardBackgroundColor="@color/colorWhite"
+        app:cardCornerRadius="@dimen/cardview_default_radius"
+        app:cardElevation="@dimen/cardview_default_elevation">
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/tv_frequency"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:lines="1"
+            android:paddingLeft="@dimen/_1sdp"
+            android:paddingRight="@dimen/_1sdp"
+            android:text=""
+            android:textColor="@color/colorTxtGrey"
+            android:textSize="@dimen/_14ssp" />
+    </android.support.v7.widget.CardView>
+
+</android.support.v7.widget.LinearLayoutCompat>

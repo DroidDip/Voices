@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#F47D09</color>
+    <color name="colorPrimaryDark">#EC5601</color>
+    <color name="colorAccent">#EC5601</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorSplashStart">#F16E02</color>
+    <color name="colorSplashCenter">#F7860E</color>
+    <color name="colorSplashEnd">#FB9D19</color>
+
+    <color name="colorTxtGrey">#757575</color>
+    <color name="colorHighLight">#f5bb6a</color>
+    <color name="colorHighLightAlpha">#faddb4</color>
+
+    <color name="colorSmokeWhite">#F0ECF1</color>
+
+    <color name="colorScreenBg">#f3f3f3</color>
+</resources>

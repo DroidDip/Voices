@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Voices</string>
+    <string name="txt_speak">Tap to Speak</string>
+    <string name="txt_dictionary">Dictionary</string>
+    <string name="press_again_to_exit">Press back again to exit</string>
+    <string name="txt_user_speaks">User Speaks</string>
+    <string name="speech_progress_msg">Processing your speech...</string>
+
+    <string name="error_speech_input">Oops! Your device don\'t support Speech Input</string>
+    <string name="error_network_connection">Please check your internet connection &amp; try again</string>
+    <string name="error_no_matching_word">Sorry! No word found in the Dictionary</string>
+    <string name="error_something_went_wrong">Oops! Something went wrong</string>
+</resources>

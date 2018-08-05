@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="speech_dictionary">
+        <item>Hi</item>
+        <item>Hello</item>
+        <item>World</item>
+        <item>Linkin Park</item>
+        <item>Good Day</item>
+        <item>Twenty</item>
+        <item>Good Night</item>
+        <item>2nd Exit</item>
+        <item>4th Street</item>
+        <item>Traffic</item>
+        <item>Incidents</item>
+        <item>Navigate to</item>
+    </string-array>
+
+</resources>
