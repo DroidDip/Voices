@@ -2,6 +2,7 @@
 [![Uplabs](https://img.shields.io/badge/Uplabs-Voices-brightgreen.svg?style=flat)](https://www.uplabs.com/posts/voices-open-source-apps)
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Voices-green.svg?style=flat )]( https://android-arsenal.com/details/1/7128 )
 
+![ic_launcher_round](https://user-images.githubusercontent.com/9950220/45593165-3d0bfd00-b99d-11e8-96cf-4db45a8075b3.png)
 # Voices
  An **Android application** which performs **Speech to Text**.
 # App Description
