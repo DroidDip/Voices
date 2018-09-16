@@ -1,9 +1,5 @@
-[PlatformBadge]:  https://img.shields.io/badge/Platform-Android-blue.svg
-[ApiBadge]:       https://img.shields.io/badge/API-15%2B-blue.svg
-
-
-[![Platform][PlatformBadge]]
-[![Api][ApiBadge]]
+[![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)](https://github.com/DroidDip/Voices)
+[![Api](https://img.shields.io/badge/API-15%2B-blue.svg)](https://github.com/DroidDip/Voices)
 [![License](https://img.shields.io/github/license/blipinsk/StaggeredAnimationGroup.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Uplabs](https://img.shields.io/badge/Uplabs-Voices-brightgreen.svg?style=flat)](https://www.uplabs.com/posts/voices-open-source-apps)
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-Voices-green.svg?style=flat )]( https://android-arsenal.com/details/1/7128 )
